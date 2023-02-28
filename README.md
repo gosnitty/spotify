@@ -25,6 +25,7 @@ print(filling_map(coordinates(points(songs(artist(str))))))
 
 ## Example
 https://github.com/gosnitty/spotify/blob/main/foto
+![App Screenshot](song_location.jpg)
 
 ## Descriprion
 task 3 після запуску програми появляється посилання на сайт2 на якому потрібно ввести ім'я виконався і виведеться карта з мітками в яких країнах доступна його найпопулярніша пісня
