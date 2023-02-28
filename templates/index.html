@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="initial-scale=1, width=device-width"/>
+        <title>Spotify</title>
+    </head>
+    <body>
+<h1>Spotify</h1>
+        <form method="post">
+    <input name="artist" placeholder="Artist`s name" type="text" value = "{{ request.form['artist']}}"/><br>
+    <input type="submit" value="Submit"/><br>
+        </form>
+    </body>
+</html>
