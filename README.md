@@ -24,7 +24,6 @@ print(filling_map(coordinates(points(songs(artist(str))))))
 ```
 
 ## Example
-https://github.com/gosnitty/spotify/blob/main/foto
 ![App Screenshot](song_location.jpg)
 
 ## Descriprion
